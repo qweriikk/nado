@@ -1,0 +1,8 @@
+.header{
+    min-height: 5vh;
+    min-width: 100vh;
+    background: #050409;
+}
+.container-fluid{
+    overflow-y:hidden;
+  }
